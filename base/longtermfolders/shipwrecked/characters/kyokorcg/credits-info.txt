@@ -1,0 +1,12 @@
+Kyoko (River City Girls) (Updated 27 December, 2020)
+
+-----
+
+The folder contains several custom sprite variations.
+
+-----
+Credits:
+
+Sprites ripped and ported by Misthalin
+Custom sprites drawn by Misthalin and Rev2H
+Game by Wayforward

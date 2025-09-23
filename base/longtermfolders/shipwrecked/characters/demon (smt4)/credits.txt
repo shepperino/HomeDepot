@@ -1,0 +1,4 @@
+Atlus - Shin Megami Tensei
+Skatetro - SMT4 Demon sprites
+Misthalin - Porting, upscale art cleanup
+KleptoCupid - Art cleanup
